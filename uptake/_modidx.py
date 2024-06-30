@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://franckalbinet.github.io',
                 'git_url': 'https://github.com/franckalbinet/uptake',
                 'lib_path': 'uptake'},
-  'syms': {'uptake.core': {'uptake.core.foo': ('core.html#foo', 'uptake/core.py')}}}
+  'syms': {'uptake.loading': {'uptake.loading.load_vnklm': ('loading.html#load_vnklm', 'uptake/loading.py')}}}
