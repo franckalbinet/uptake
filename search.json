@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Uptake",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Uptake"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "Uptake",
+    "section": "Install",
+    "text": "Install\npip install uptake",
+    "crumbs": [
+      "Uptake"
+    ]
+  },
+  {
+    "objectID": "index.html#getting-started",
+    "href": "index.html#getting-started",
+    "title": "Uptake",
+    "section": "Getting started",
+    "text": "Getting started",
+    "crumbs": [
+      "Uptake"
+    ]
+  },
+  {
+    "objectID": "loading.html",
+    "href": "loading.html",
+    "title": "Loading",
+    "section": "",
+    "text": "source\n\nload_vnklm\n\n load_vnklm ()\n\nLoad Margot Vanheukelom KULeuven data.\n\nload_vnklm()\n\n\n\n\n\n\n\n\nref\nsoil_code\nds\nsoil_class\nclay\nsoc\nph\ncec\nkex\nnh4\ntime\ncr\ncr_absa_1999\ncr_absa_2001\ncr_tars_2011\n\n\n\n\n0\nSmolders1997\n2\nliterature\nLV\n12.600000\n2.570000\n5.040000\n13.800000\n0.180000\n0.030000\n67\n0.265500\n0.000250\n0.048243\n0.136174\n\n\n1\nSmolders1997\n5\nliterature\nFL\n21.900000\n5.450000\n5.680000\n28.200000\n0.380000\n0.040000\n67\n0.089000\n0.000082\n0.026420\n0.073079\n\n\n2\nSmolders1997\n9\nliterature\nLV\n3.300000\n2.900000\n5.170000\n9.300000\n0.200000\n0.070000\n67\n0.627100\n0.003042\n0.151939\n0.287474\n\n\n3\nSmolders1997\n10\nliterature\nPZ\n2.400000\n1.890000\n4.690000\n5.400000\n0.150000\n0.040000\n67\n0.285000\n0.005711\n0.161266\n0.332143\n\n\n4\nSmolders1997\n13\nliterature\nAT\n4.500000\n1.600000\n4.680000\n5.100000\n0.900000\n0.160000\n67\n0.044600\n0.001039\n0.027919\n0.046458\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n143\nVanheukelom2024\nLAG2+K\ntoposequence\nCM\n21.585497\n1.852270\n5.943333\n24.512791\n1.215386\n0.045137\n80\n0.020553\n0.000071\n0.007756\n0.025604\n\n\n144\nVanheukelom2024\nLAG3+K\ntoposequence\nAC\n44.839196\n0.557858\n3.836667\n9.868775\n0.405093\n0.402177\n80\n3.274398\n0.000020\n0.084212\n0.153852\n\n\n145\nVanheukelom2024\nLAG4+K\ntoposequence\nCM\n38.644722\n1.847666\n4.763333\n27.875549\n0.630881\n0.571004\n80\n0.317191\n0.000026\n0.051035\n0.106087\n\n\n146\nVanheukelom2024\nLAG5+K\ntoposequence\nCM\n32.338793\n1.792038\n4.450000\n22.671039\n1.088063\n0.366031\n80\n0.048163\n0.000034\n0.018101\n0.039714\n\n\n147\nVanheukelom2024\nLAG6+K\ntoposequence\nCM\n29.386730\n1.842415\n5.506667\n33.705742\n1.161356\n0.017295\n80\n0.054261\n0.000041\n0.006679\n0.023132\n\n\n\n\n148 rows × 15 columns",
+    "crumbs": [
+      "Loading"
+    ]
+  }
+]
