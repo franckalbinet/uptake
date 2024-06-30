@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "uptake"
+  site-url: "https://franckalbinet.github.io/uptake"
+  description: "Predicting Soil to Plant Radiocesium Transfer Factor"
+  repo-branch: main
+  repo-url: "https://github.com/franckalbinet/uptake"
